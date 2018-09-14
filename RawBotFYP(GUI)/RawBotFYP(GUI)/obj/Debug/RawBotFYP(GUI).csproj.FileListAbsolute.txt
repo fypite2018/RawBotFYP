@@ -1,0 +1,313 @@
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP_GUI_.Properties.Resources.resources
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csproj.GenerateResource.cache
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csproj.CoreCompileInputs.cache
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\RawBotFYP(GUI).exe.config
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\RawBotFYP(GUI).exe
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\RawBotFYP(GUI).pdb
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Core.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rpc.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.AppContext.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Console.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Interactive.Async.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.Compression.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Net.Http.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Net.Sockets.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Core.xml
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rpc.xml
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Interactive.Async.xml
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP_GUI_.RawBotGUI.resources
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csproj.CopyComplete
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).exe
+C:\Users\Guess\Documents\Visual Studio 2017\Projects\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).pdb
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\RawBotFYP(GUI).exe.config
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\RawBotFYP(GUI).exe
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\RawBotFYP(GUI).pdb
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Core.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rpc.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.AppContext.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Console.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Interactive.Async.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.Compression.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Net.Http.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Net.Sockets.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Core.xml
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rpc.xml
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Interactive.Async.xml
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csprojAssemblyReference.cache
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP_GUI_.RawBotGUI.resources
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP_GUI_.Properties.Resources.resources
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csproj.GenerateResource.cache
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csproj.CoreCompileInputs.cache
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csproj.CopyComplete
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).exe
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).pdb
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\RawBotFYP(GUI).exe
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Commands.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Core.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rest.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Interactive.Async.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Net.Http.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\RawBotFYP(GUI).exe.config
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\RawBotFYP(GUI).exe
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\RawBotFYP(GUI).pdb
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Commands.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Core.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rest.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rpc.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Webhook.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.WebSocket.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Newtonsoft.Json.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.AppContext.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Collections.Immutable.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Console.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Globalization.Calendars.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Interactive.Async.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.Compression.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.FileSystem.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Net.Http.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Net.Sockets.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Xml.ReaderWriter.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Commands.xml
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Core.xml
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rest.xml
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rpc.xml
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Webhook.xml
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.WebSocket.xml
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Newtonsoft.Json.xml
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Collections.Immutable.xml
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Interactive.Async.xml
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csprojAssemblyReference.cache
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP_GUI_.RawBotGUI.resources
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP_GUI_.Properties.Resources.resources
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csproj.GenerateResource.cache
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csproj.CoreCompileInputs.cache
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csproj.CopyComplete
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).exe
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).pdb
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Core.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.PlatformServices.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.YouTube.v3.dll
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.pdb
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.xml
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.pdb
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.xml
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Core.pdb
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Core.xml
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.YouTube.v3.pdb
+D:\RawBotFYP\VS\newest(12 RawBotFYPGUI 23-8 Implemented GUI for the Bot\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Core.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.pdb
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.xml
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Core.xml
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\RawBotFYP(GUI).exe.config
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\RawBotFYP(GUI).exe
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\RawBotFYP(GUI).pdb
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.Compression.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Commands.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Core.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rest.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rpc.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.pdb
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Core.pdb
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Core.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Interactive.Async.xml
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csprojAssemblyReference.cache
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP_GUI_.RawBotGUI.resources
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP_GUI_.Properties.Resources.resources
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csproj.GenerateResource.cache
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csproj.CopyComplete
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).exe
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).pdb
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Commands.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Core.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rest.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rpc.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Core.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.AppContext.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Console.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Interactive.Async.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Net.Sockets.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Zhenkai (15 RawBotFYPGUI 24-8 Designed the GUI)\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rpc.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Core.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.AppContext.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Console.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.Compression.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.FileSystem.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Net.Sockets.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Commands.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Core.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rest.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Rpc.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.pdb
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Auth.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Core.pdb
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.Core.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\System.Interactive.Async.xml
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP_GUI_.RawBotGUI.resources
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP_GUI_.Properties.Resources.resources
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP_GUI_.FormGuild.resources
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csproj.GenerateResource.cache
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).exe
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).pdb
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csprojAssemblyReference.cache
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\RawBotFYP(GUI).exe.config
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\bin\Debug\RawBotFYP(GUI).pdb
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP(GUI).csproj.CopyComplete
+C:\Users\Guess\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP_GUI_.FormGuild.resources
+C:\Users\User\Desktop\RawBotFYP(GUI)\RawBotFYP(GUI)\obj\Debug\RawBotFYP_GUI_.LoginForm.resources
